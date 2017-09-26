@@ -12,6 +12,7 @@
 		0CBCA5121F79F4E3008D5CCC /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0CBCA5101F79F4E3008D5CCC /* Main.storyboard */; };
 		0CBCA5141F79F4E3008D5CCC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0CBCA5131F79F4E3008D5CCC /* Assets.xcassets */; };
 		0CBCA5171F79F4E3008D5CCC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0CBCA5151F79F4E3008D5CCC /* LaunchScreen.storyboard */; };
+		0CBCA5211F79F5DC008D5CCC /* ViewPoint3.plist in Resources */ = {isa = PBXBuildFile; fileRef = 0CBCA5201F79F5DC008D5CCC /* ViewPoint3.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		0CBCA5131F79F4E3008D5CCC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0CBCA5161F79F4E3008D5CCC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0CBCA5181F79F4E3008D5CCC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0CBCA5201F79F5DC008D5CCC /* ViewPoint3.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = ViewPoint3.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				0CBCA50C1F79F4E3008D5CCC /* AppDelegate.swift */,
 				0CBCA50E1F79F4E3008D5CCC /* ViewController.swift */,
 				0CBCA5101F79F4E3008D5CCC /* Main.storyboard */,
+				0CBCA5201F79F5DC008D5CCC /* ViewPoint3.plist */,
 				0CBCA5131F79F4E3008D5CCC /* Assets.xcassets */,
 				0CBCA5151F79F4E3008D5CCC /* LaunchScreen.storyboard */,
 				0CBCA5181F79F4E3008D5CCC /* Info.plist */,
@@ -125,6 +128,7 @@
 			files = (
 				0CBCA5171F79F4E3008D5CCC /* LaunchScreen.storyboard in Resources */,
 				0CBCA5141F79F4E3008D5CCC /* Assets.xcassets in Resources */,
+				0CBCA5211F79F5DC008D5CCC /* ViewPoint3.plist in Resources */,
 				0CBCA5121F79F4E3008D5CCC /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
